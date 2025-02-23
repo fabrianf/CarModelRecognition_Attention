@@ -25,17 +25,13 @@ The models were trained and evaluated using a car model dataset with images cate
 | Vision Transformer  | 81.53%   | 0.3241               | 12458.93   |
 | CBAM-ResNet         | 75.80%   | 0.4426               | 9124.37    |
 
-## Key Findings
-- **TResNet-L** achieved the highest accuracy (89.29%) but had slower inference speed.
-- **Vision Transformer** was the fastest in terms of inference but had lower accuracy.
-- **CBAM-ResNet** showed the lowest accuracy, indicating that CBAM might not be suitable for this task.
-- **ResNet-50** provided a good balance between speed and accuracy.
-
 ## Installation and Setup
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/car-model-attention.git
    cd car-model-attention
+
+2. Unzip image Folder in the same directory as ipynb file
    
 ## Acknowledgments
 Pretrained weights from ImageNet
