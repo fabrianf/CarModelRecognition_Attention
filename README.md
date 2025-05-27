@@ -1,7 +1,7 @@
 # CarModelRecognition_Attention
 
 ## Description
-This project explores the impact of various attention mechanisms on car model recognition accuracy. The goal is to compare the performance of multiple architectures using pretrained weights from ImageNet and identify which attention mechanism enhances model accuracy the most.
+This project explores the impact of various attention mechanisms on car model recognition accuracy. The goal is to compare the performance of multiple architectures using pretrained weights from ImageNet and identify which attention mechanism enhances model accuracy the most or rather explore how they affect the model in their different ways.
 
 ## Architectures Compared
 1. **ResNet-50** (No Attention)
